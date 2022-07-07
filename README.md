@@ -1,4 +1,4 @@
-# MB8611 Metrics
+# MB8611 Metrics (WIP)
 
 A small bit of Ruby code that queries a local Motorola MB8611 modem (and likely many other Motorola modems) for their metrics. This code does not require authentication. It uses the long deprecated and almost entirely forgotton HNAP protocol. Most networking gear threw this protocol by the wayside years ago, but Motorol still uses it in their devices.
 
