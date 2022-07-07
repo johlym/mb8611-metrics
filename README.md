@@ -4,6 +4,8 @@ A small bit of Ruby code that queries a local Motorola MB8611 modem (and likely 
 
 ## Requirements
 
+* Create a `.env` and set `MODEM_IP_ADDRESS` within it. (ex: `MODEM_IP_ADDRESS=192.168.0.1`)
+
 ## Usage
 
 ## Questions
